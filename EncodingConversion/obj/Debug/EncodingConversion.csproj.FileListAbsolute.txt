@@ -1,0 +1,10 @@
+D:\visual studio\project\EncodingConversion\EncodingConversion\bin\Debug\EncodingConversion.exe.config
+D:\visual studio\project\EncodingConversion\EncodingConversion\bin\Debug\EncodingConversion.exe
+D:\visual studio\project\EncodingConversion\EncodingConversion\bin\Debug\EncodingConversion.pdb
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.csprojAssemblyReference.cache
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.Form1.resources
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.Properties.Resources.resources
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.csproj.GenerateResource.cache
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.csproj.CoreCompileInputs.cache
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.exe
+D:\visual studio\project\EncodingConversion\EncodingConversion\obj\Debug\EncodingConversion.pdb
